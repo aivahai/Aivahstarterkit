@@ -1,0 +1,5 @@
+{
+  "provider": "openai-live",
+  "model": "gpt-live-1",
+  "voice": "quartz"
+}

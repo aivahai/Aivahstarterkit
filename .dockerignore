@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+.DS_Store
+*.md
+.env
+.env.*
+!.env.example
+coverage
+.turbo
+.cursor
+*.log
+npm-debug.log*
+pnpm-debug.log*
+test-results
+playwright-report
